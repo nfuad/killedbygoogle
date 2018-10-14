@@ -5,7 +5,7 @@ import { Logo, Masthead, Title } from './Header.atoms';
 
 export default () => (
   <Masthead>
-    <Logo src="assets/tombstone.svg" alt="Tombstone Icon" />
+    <Logo src="assets/winter/main.svg" alt="Snowman Icon" />
     <Title>
       {'Killed by Google'}
     </Title>
